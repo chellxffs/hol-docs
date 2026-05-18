@@ -1,0 +1,62 @@
+site_name: House of Light Wiki
+site_description: The wiki for the House of Light fantasy series
+site_url: https://chellxffs.github.io/hol-docs/
+repo_url: https://github.com/chellxffs/hol-docs
+repo_name: chellxffs/hol-docs
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    - scheme: default
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+  font:
+    text: Crimson Pro
+    code: Source Code Pro
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search
+  - tags
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+  - tables
+
+nav:
+  - Home: index.md
+  - Characters:
+    - Overview: characters/index.md
+    - "Tadhana Bakunawa (Example)": characters/tadhana.md
+  - World: world/index.md
+  - Locations: locations/index.md
+  - Lore & Magic: lore/index.md
+  - Timeline: timeline/index.md
+  - All Tags: tags.md

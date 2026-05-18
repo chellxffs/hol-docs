@@ -1,0 +1,373 @@
+/* ===== HOUSE OF LIGHT WIKI — GOLD, BLACK & TAN THEME ===== */
+
+@import url('https://fonts.googleapis.com/css2?family=Philosopher:ital,wght@0,400;0,700;1,400&display=swap');
+
+/* === PALETTE ============================================
+   Black     #0d0d0d   background
+   Gold      #c9a227   primary accent / links
+   Gold-lt   #e8c96d   headings / hover
+   Gold-dk   #8b6914   borders / muted gold
+   White     #f0e6cc   body text (warm white)
+   Tan       #c4a882   secondary / muted text
+   Tan-dk    #2a2010   subtle borders / row dividers
+   ======================================================= */
+
+/* ===== GLOBAL SCHEME ===== */
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color:           #0d0d0d;
+  --md-default-bg-color--light:    #141414;
+  --md-default-bg-color--lighter:  #1c1c1c;
+  --md-default-fg-color:           #f0e6cc;
+  --md-default-fg-color--light:    rgba(240, 230, 204, 0.68);
+  --md-default-fg-color--lighter:  rgba(240, 230, 204, 0.30);
+  --md-default-fg-color--lightest: rgba(240, 230, 204, 0.07);
+  --md-typeset-a-color:            #c9a227;
+  --md-code-bg-color:              #141414;
+}
+
+/* ===== NAVIGATION & HEADER ===== */
+.md-header,
+.md-tabs {
+  background-color: #080808 !important;
+  border-bottom: 1px solid #3d2e0a;
+}
+
+.md-header__title {
+  color: #e8c96d;
+}
+
+/* ===== TYPOGRAPHY ===== */
+.md-content h1,
+.md-content h2,
+.md-content h3,
+.md-content h4 {
+  font-family: 'Philosopher', Georgia, serif;
+  letter-spacing: 0.04em;
+  color: #e8c96d;
+}
+
+.md-content h2 {
+  border-bottom: 1px solid #2a2010;
+  padding-bottom: 0.3rem;
+}
+
+/* ===== LINKS ===== */
+.md-typeset a {
+  color: #c9a227;
+}
+
+.md-typeset a:hover {
+  color: #e8c96d;
+}
+
+/* ===== HORIZONTAL RULE — ornamental divider ===== */
+.md-typeset hr {
+  border: none;
+  text-align: center;
+  overflow: visible;
+  margin: 2rem 0;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #3d2e0a 20%, #3d2e0a 80%, transparent);
+}
+
+.md-typeset hr::after {
+  content: '✦';
+  color: #8b6914;
+  font-size: 0.9rem;
+  background: #0d0d0d;
+  padding: 0 0.75rem;
+  position: relative;
+  top: -0.65rem;
+  display: inline-block;
+  letter-spacing: 0.5em;
+}
+
+/* ===== INFOBOX — temple tablet ===== */
+.infobox {
+  float: right;
+  clear: right;
+  margin: 0 0 1.5rem 2rem;
+  width: 280px;
+  background: #111111;
+  border: 1px solid #8b6914;
+  box-shadow: 0 0 0 3px #080808, 0 0 0 4px #3d2e0a;
+  font-size: 0.85rem;
+  overflow: hidden;
+}
+
+.infobox-title {
+  background: linear-gradient(180deg, #1e1a10 0%, #111111 100%);
+  color: #e8c96d;
+  font-family: 'Philosopher', Georgia, serif;
+  font-weight: bold;
+  font-size: 0.95rem;
+  text-align: center;
+  padding: 0.65rem 0.75rem;
+  border-bottom: 1px solid #8b6914;
+  letter-spacing: 0.06em;
+}
+
+.infobox-image {
+  text-align: center;
+  padding: 0.5rem;
+  border-bottom: 1px solid #2a2010;
+}
+
+.infobox-image img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto 0.35rem;
+}
+
+.infobox-image em {
+  font-size: 0.74rem;
+  color: #8b7355;
+  display: block;
+}
+
+.infobox-section {
+  background: linear-gradient(180deg, #1e1a10 0%, #111111 100%);
+  color: #c9a227;
+  font-family: 'Philosopher', Georgia, serif;
+  font-weight: bold;
+  text-align: center;
+  padding: 0.35rem 0.5rem;
+  border-top: 1px solid #8b6914;
+  border-bottom: 1px solid #2a2010;
+  font-size: 0.8rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.infobox table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0 !important;
+  display: table !important;
+}
+
+.infobox table tr:not(:last-child) {
+  border-bottom: 1px solid #1e1a10;
+}
+
+.infobox table th {
+  font-weight: bold;
+  color: #c4a882;
+  padding: 0.35rem 0.6rem;
+  vertical-align: top;
+  width: 42%;
+  background: transparent;
+  text-align: left;
+  border: none !important;
+}
+
+.infobox table td {
+  color: #f0e6cc;
+  padding: 0.35rem 0.6rem;
+  vertical-align: top;
+  background: transparent;
+  border: none !important;
+}
+
+.infobox table td a,
+.infobox table th a {
+  color: #c9a227 !important;
+}
+
+.infobox table td ul {
+  margin: 0;
+  padding-left: 1rem;
+  list-style: disc;
+}
+
+/* ===== QUOTE BLOCK ===== */
+.wiki-quote {
+  position: relative;
+  margin: 2rem 1rem;
+}
+
+.wiki-quote::before {
+  content: '\201C';
+  font-size: 2.5rem;
+  color: #8b6914;
+  position: absolute;
+  left: -1.25rem;
+  top: -1.25rem;
+  font-family: Georgia, 'Times New Roman', serif;
+  line-height: 1;
+}
+
+.wiki-quote::after {
+  content: '\201D';
+  display: block;
+  text-align: right;
+  font-size: 2.5rem;
+  color: #8b6914;
+  font-family: Georgia, 'Times New Roman', serif;
+  line-height: 0.6;
+  padding-right: 0.25rem;
+  position: absolute;
+  left: 17.25rem;
+  top: 9.25rem;
+}
+
+.wiki-quote p {
+  font-style: italic;
+  color: #f0e6cc;
+  font-size: 1.05rem;
+  margin: 0 0 0.75rem;
+  line-height: 1.8;
+}
+
+.wiki-quote footer {
+  text-align: right;
+  color: #c4a882;
+  font-size: 0.875rem;
+  margin: 0;
+}
+
+.wiki-quote footer a {
+  color: #c9a227 !important;
+  font-style: italic;
+}
+
+/* ===== SPOILER WARNING ===== */
+.spoiler-warning {
+  border: 1px solid #8b6914;
+  border-left: 4px solid #c9a227;
+  background: #111111;
+  padding: 0.75rem 1.25rem;
+  text-align: center;
+  margin: 1.25rem 0;
+  color: #c4a882;
+  font-size: 0.95rem;
+}
+
+.spoiler-warning strong {
+  color: #f0e6cc;
+}
+
+.spoiler-warning .book-title {
+  color: #c9a227;
+  font-style: italic;
+  font-weight: bold;
+}
+
+/* ===== CATEGORY TAGS ===== */
+.wiki-categories {
+  margin-top: 2.5rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid #2a2010;
+  font-size: 0.875rem;
+  color: #8b7355;
+}
+
+.wiki-categories strong {
+  color: #c4a882;
+}
+
+.wiki-categories a {
+  color: #c9a227 !important;
+  margin: 0 0.25rem;
+  text-decoration: none;
+}
+
+.wiki-categories a:hover {
+  text-decoration: underline;
+}
+
+/* ===== TABLES ===== */
+.md-typeset table:not([class]) {
+  border: 1px solid #2a2010;
+}
+
+.md-typeset table:not([class]) th {
+  background: #1a1510;
+  color: #c9a227;
+  border-color: #2a2010;
+}
+
+.md-typeset table:not([class]) td {
+  border-color: #2a2010;
+}
+
+.md-typeset table:not([class]) ul {
+  padding-left: 0;
+  margin-left: 0;
+}
+
+/* ===== HOME PAGE CARDS ===== */
+.md-content div[style*="border: 1px solid #8b6914"] {
+  background: #111111 !important;
+}
+
+/* ===== INFOBOX IMAGE CAROUSEL (CSS-only, radio button) ===== */
+.infobox-carousel input[type="radio"] {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+  pointer-events: none;
+}
+
+.carousel-slides {
+  width: 100%;
+}
+
+.carousel-slide {
+  display: none;
+}
+
+.carousel-slide img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+#tc1:checked ~ .carousel-slides .carousel-slide:nth-child(1),
+#tc2:checked ~ .carousel-slides .carousel-slide:nth-child(2),
+#tc3:checked ~ .carousel-slides .carousel-slide:nth-child(3) {
+  display: block;
+}
+
+.carousel-dots {
+  text-align: center;
+  padding: 0.5rem 0 0.2rem;
+}
+
+.carousel-dots label {
+  display: inline-block;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #2a2010;
+  border: 1px solid #8b6914;
+  margin: 0 3px;
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s;
+}
+
+.carousel-dots label:hover {
+  background: #8b6914;
+}
+
+#tc1:checked ~ .carousel-dots label:nth-child(1),
+#tc2:checked ~ .carousel-dots label:nth-child(2),
+#tc3:checked ~ .carousel-dots label:nth-child(3) {
+  background: #c9a227;
+  border-color: #c9a227;
+}
+
+/* ===== RESPONSIVE ===== */
+@media screen and (max-width: 800px) {
+  .infobox {
+    float: none;
+    width: 100%;
+    margin: 1rem 0;
+    box-shadow: none;
+  }
+
+  .wiki-quote {
+    margin: 1.5rem 0.5rem;
+  }
+}
