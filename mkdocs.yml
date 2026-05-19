@@ -54,7 +54,56 @@ nav:
   - Home: index.md
   - Characters:
     - Overview: characters/index.md
-    - "Tadhana Bakunawa (Example)": characters/tadhana.md
+    # Main Characters
+    - "Tadhana Bakunawa": characters/tadhana.md
+    - "Amihan Bakunawa": characters/amihan.md
+    - "Mahalia Bakunawa": characters/mahalia.md
+    - "Liwei Tengku": characters/liwei.md
+    - "Palani": characters/palani.md
+    - "Setia": characters/setia.md
+    - "Som": characters/som.md
+    - "Jinhai Nangong": characters/jinhai.md
+    - "Phichai": characters/phichai.md
+    - "Inzali": characters/inzali.md
+    - "Ahn Maniyong": characters/ahn.md
+    - "Vatsana Maniyong": characters/vatsana.md
+    - "Sunya Maniyong": characters/sunya.md
+    - "Htun Chey": characters/htun.md
+    # Tatloans
+    - "Bakala": characters/bakala.md
+    - "Kaali": characters/kaali.md
+    - "Sama": characters/sama.md
+    # Adlawans
+    - "Tala Adlawan": characters/tala.md
+    - "Araw Adlawan": characters/araw.md
+    - "Linawag": characters/linawag.md
+    - "Dakila Adlawan": characters/dakila.md
+    - "Bato Adlawan": characters/bato.md
+    - "Mayari Adlawan": characters/mayari-2.md
+    - "Hiraya Adlawan": characters/hiraya.md
+    - "Datu Adlawan": characters/datu.md
+    # Bakunawas
+    - "Habagat Bakunawa": characters/habagat.md
+    - "Bayani Bakunawa": characters/bayani.md
+    - "Kawayan Bakunawa": characters/kawayan.md
+    - "Ulupong Bakunawa": characters/ulupong.md
+    - "Sinta Bakunawa": characters/sinta.md
+    # Cheys
+    - "Rangsea Chey": characters/rangsea.md
+    - "Jorani Chey": characters/jorani.md
+    # Tengkus
+    - "Awang Tengku": characters/awang.md
+    - "Chesa Tengku": characters/chesa.md
+    - "Bagwis Tengku": characters/bagwis.md
+    # Others
+    - "Hiwaga": characters/hiwaga.md
+    - "Yori": characters/yori.md
+    - "Diwata Diyagbila": characters/diwata.md
+    - "Casama": characters/casama.md
+    - "Darani": characters/darani.md
+    - "Anurak": characters/anurak.md
+    - "Xueqin Nangong": characters/xueqin.md
+    - "Mayari": characters/mayari-1.md
   - World: world/index.md
   - Locations: locations/index.md
   - Lore & Magic: lore/index.md

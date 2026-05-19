@@ -37,7 +37,8 @@ tags:
     <tr><th>Full name</th><td>Tadhana Bakunawa Adlawan</td></tr>
     <tr><th>Also known as</th><td>
       <ul>
-        <li>Nana</li>
+        <li>Nana (by her cousins)</li>
+        <li>Tads (by Palani)</li>
       </ul>
     </td></tr>
     <tr><th>Species</th><td>Human</td></tr>
@@ -56,33 +57,23 @@ tags:
   </table>
   <div class="infobox-section">Affiliations</div>
   <table>
-    <tr><th>Allegiance</th><td><a href="../world/">The Blessed</a></td></tr>
-    <tr><th>Residence</th><td><a href="../locations/">Lower Hanan</a></td></tr>
+    <tr><th>Allegiance</th><td><a href="../world/">The Blessed, The Bakunawa</a></td></tr>
+    <tr><th>Residence</th><td><a href="../locations/">Lower Hanan, The Hanan Palace</a></td></tr>
     <tr><th>Occupation</th><td>Shadowbringer</td></tr>
     <tr><th>Family</th><td>
       <ul>
-        <li><a href="./example-character.md">Kawayan Bakunawa</a> (adoptive father)</li>
-        <li><a href="./example-character.md">Amihan Bakunawa</a> (adoptive cousin)</li>
-        <li><a href="./example-character.md">Hiwaga</a> (father, deceased)</li>
-        <li><a href="./example-character.md">Mayari Adlwan II</a> (mother, deceased)</li>
-        <li><a href="./example-character.md">Tala Adlawan</a> (great-grandmother, deceased)</li>
-        <li><a href="./example-character.md">Araw Adlawan</a> / <a href="./example-character.md">Linawag Adlawan</a> (great-grandfather, deceased)</li>
-        <li><a href="./example-character.md">Ulupong Bakunawa</a> (adoptive uncle, deceased)</li>
-        <li><a href="./example-character.md">Sinta Bakunawa</a> (adoptive aunt, deceased)</li>
-        <li><a href="./example-character.md">Bayani Bakunawa</a> (adoptive cousin, deceased)</li>
-        <li><a href="./example-character.md">Habagat Bakunawa</a> (adoptive cousin, deceased)</li>
-        <li><a href="./example-character.md">Mahalia Bakunawa</a> (adoptive cousin, deceased)</li>
+        <li><a href="../kawayan">Kawayan Bakunawa</a> (adoptive father)</li>
+        <li><a href="../amihan">Amihan Bakunawa</a> (adoptive cousin)</li>
+        <li><a href="../hiwaga">Hiwaga</a> (father, deceased)</li>
+        <li><a href="../mayari-2">Mayari Adlwan II</a> (mother, deceased)</li>
+        <li><a href="../tala">Tala Adlawan</a> (great-grandmother, deceased)</li>
+        <li><a href="../araw">Araw Adlawan</a> / <a href="../linawag">Linawag Adlawan</a> (great-grandfather, deceased)</li>
+        <li><a href="../ulupong">Ulupong Bakunawa</a> (adoptive uncle, deceased)</li>
+        <li><a href="../sinta">Sinta Bakunawa</a> (adoptive aunt, deceased)</li>
+        <li><a href="../bayani">Bayani Bakunawa</a> (adoptive cousin, deceased)</li>
+        <li><a href="../habagat">Habagat Bakunawa</a> (adoptive cousin, deceased)</li>
+        <li><a href="../mahalia">Mahalia Bakunawa</a> (adoptive cousin, deceased)</li>
       </ul>
-    <tr><th>Extended Family</th><td>
-      <ul>
-        <li><a href="./example-character.md">Mayari</a> (great-grandaunt, deceased)</li>
-        <li><a href="./example-character.md">Bato Adlawan</a> (great-uncle, deceased)</li>
-        <li><a href="./example-character.md">Dakila Adlawan</a> (grandfather, deceased)</li>
-        <li><a href="./example-character.md">Hiraya Adlawan</a> (first cousin once-removed, deceased)</li>
-        <li><a href="./example-character.md">Datu Adlawan</a> (second cousin, deceased)</li>
-        <li><a href="./example-character.md">Bagwis Adlawan</a> (first cousin once-removed)</li>
-      </ul>
-    </td></tr>
   </table>
 </div>
 
@@ -105,21 +96,45 @@ At age 14, Tadhana became an enforcer for the Bakunawa clan. Since the age of 17
 *(Write what happens to this character in each book here.)*
 
 ## Personality
-
-*(Describe the character's personality, values, and how they change over the course of the story.)*
+Tadhana is often described as charming, calm and calculated, cold, manipulative, sly, and cunning. Her strengths are that she is efficient, energetic, confident, strong-willed, strategic, charismatic, and persuasive. Her weaknesses are that she is stubborn, dominant, intolerant, impatient, arrogant, cold and ruthless. She likes jewelry, jewels, rare books, drinking, pretty people, fighting, and dressing up. She dislikes confined spaces. She makes lots of eye contact, smirks a lot, has a rigid posture, assertive and manner-of-fact tone. Tadhana's hobby is knowledge - she loves conducting experiments, reading and writing encyclopedias, etc.
 
 ## Abilities & Powers
-
-*(Describe the character's skills, magic, combat abilities, etc.)*
+Tadhana was blessed by Yinying with Shadowbringing. She also possesses the ability of Nightmarewielding, and Lightwielding (not to be confused with Lightbringing).
 
 ## Relationships
 
-### [Bayani]
-Bayani found Tadhana alone and starving in her village. After she was adopted by his uncle Kawayan, they were raised in Lower Hanan together as childhood friends. Bayani has been in love with Tadhana to his whole life, a fact that is obvious to everyone including Tadhana. When they grew older, Bayani went abroad and Tadhana. While abroad, he sent her many letters with poems written for her.
+### Bayani
+Bayani found Tadhana alone and starving in her village. After she was adopted by his uncle Kawayan, they were raised in Lower Hanan together as childhood friends. Bayani has been in love with Tadhana to his whole life, a fact that is obvious to everyone including Tadhana. When they grew older, Bayani went abroad. While abroad, he sent her many letters with poems written for her.
+
+### Mahalia
+Tadhana and Mahalia were raised and tutored together in the Bakunawa clan. 
+
+### Amihan
+Amihan has always admired Tadhana and followed her around when they were kids. She is extremely loyal to Tadhana and often acts as Tadhana's right hand. Even after she enlists in the military after the Bakunawa massacre, Amihan remains Tadhana's spymaster.
+
+### Habagat
+Like his twin sister, Habagat is extremely loyal to Tadhana. They often bond over their shared love of fighting.
+
+### Liwei
+Tadhana meets Liwei in Lower Hanan shortly after her 23rd birthday. Unbeknowngst to her, Liwei is a member of the an elite warrior clan the Blessed as well as the prince of Langit.
+
+### Jinhai
+Tadhana first meets Jinhai at the Sonthuy tournament. They try several times to kill each other. After the Battle in Fleun, they form a shaky alliance and eventually fall in love.
+
+### Som
+
+### Htun
+
+### Ahn
+
+### Setia
+
+### Diwata
+Tadhana pursued Diwata and eventually charmed her into a relationship when they were 17. Diwata was her first real love and would remain so until 6 years later when she dated Liwei. Tadhana used the information Diwata gave her and ultimately wiped out the Diyagbila clan, but secretly set up a new life for Diwata in Lautan. Diwata cursed Tadhana before she left and expressed her hope that someone would break her heart and ruin her life the way Tadhana did hers.
 
 ## Trivia
-
-- *(Interesting behind-the-scenes fact or fun detail.)*
+- Tadhana secretly loves hugs.
+- She once hosted a wrestling competition in which the winner won a date with her. 
 
 ## Appearances
 

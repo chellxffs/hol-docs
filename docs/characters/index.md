@@ -13,7 +13,7 @@ All named characters in the *House of Light* series.
 
 | Character | Species | Affiliation | Status |
 |-----------|---------|-------------|--------|
-| [Tadhana Bakunawa](tadhana.md) | Human | The Ashguard | Alive |
+| [Tadhana Bakunawa](tadhana.md) | Human | The Blessed | Alive |
 
 ## Antagonists
 
