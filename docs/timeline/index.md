@@ -13,13 +13,20 @@ Chronological events of the *House of Light* world — before, during, and after
 
 | Year / Era | Event |
 |------------|-------|
-| *(add entries)* | |
+|0 AA| <a href="./">The Ascent</a> |
+| 444 AA | <a href="./">The Liberation of Tala</a> |
+| 451 AA | Hanan declares war on the other houses </br> Lautan joins the Southern Alliance|
+|479 AA| <a href="./bloodbath">The Black and Gold Bloodbath</a> </br> Wayu joins the Northern alliance </br> Langit joins the Southern alliance |
+|490 AA| The Failed Invasion of Taitpwei </br> Taitpwei joins the Northern alliance|
+| 504 AA| Dokmai joins the Southern Alliance |
+| 537 AA | Princess Rangsea's execution |
 
 ## Book One: *House of Light*
 
-| Chapter / Point | Event |
+| Year / Era | Event |
 |-----------------|-------|
-| *(add entries)* | |
+| 543 AA | <a href="./">The Bakunawa Massacre</a></br>The first Shadowbringer in 64 years is Blessed |
+| 544 AA | The Fall of Fleun |
 
 ## After the Series
 

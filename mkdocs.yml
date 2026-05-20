@@ -75,37 +75,18 @@ nav:
     - "Sama": characters/sama.md
     # Adlawans
     - "Tala Adlawan": characters/tala.md
-    - "Araw Adlawan": characters/araw.md
-    - "Linawag": characters/linawag.md
-    - "Dakila Adlawan": characters/dakila.md
-    - "Bato Adlawan": characters/bato.md
-    - "Mayari Adlawan": characters/mayari-2.md
-    - "Hiraya Adlawan": characters/hiraya.md
+    - "Chesa Adlawan": characters/chesa.md
     - "Datu Adlawan": characters/datu.md
     # Bakunawas
     - "Habagat Bakunawa": characters/habagat.md
     - "Bayani Bakunawa": characters/bayani.md
     - "Kawayan Bakunawa": characters/kawayan.md
-    - "Ulupong Bakunawa": characters/ulupong.md
-    - "Sinta Bakunawa": characters/sinta.md
-    # Cheys
-    - "Rangsea Chey": characters/rangsea.md
-    - "Jorani Chey": characters/jorani.md
-    # Tengkus
-    - "Awang Tengku": characters/awang.md
-    - "Chesa Tengku": characters/chesa.md
-    - "Bagwis Tengku": characters/bagwis.md
-    # Others
-    - "Hiwaga": characters/hiwaga.md
-    - "Yori": characters/yori.md
-    - "Diwata Diyagbila": characters/diwata.md
-    - "Casama": characters/casama.md
-    - "Darani": characters/darani.md
-    - "Anurak": characters/anurak.md
-    - "Xueqin Nangong": characters/xueqin.md
-    - "Mayari": characters/mayari-1.md
-  - World: world/index.md
-  - Locations: locations/index.md
+  - World:
+    - Overview: world/index.md
+    - "Hanan (Realm Template)": world/realm-template.md
+  - Locations:
+    - Overview: locations/index.md
+    - "The Ember Citadel (Location Template)": locations/location-template.md
   - Lore & Magic: lore/index.md
   - Timeline: timeline/index.md
   - All Tags: tags.md

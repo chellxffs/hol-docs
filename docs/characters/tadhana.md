@@ -34,7 +34,7 @@ tags:
   </div>
   <div class="infobox-section">General Information</div>
   <table>
-    <tr><th>Full name</th><td>Tadhana Bakunawa Adlawan</td></tr>
+    <tr><th>Full name</th><td>Tadhana Bakunawa</td></tr>
     <tr><th>Also known as</th><td>
       <ul>
         <li>Nana (by her cousins)</li>
@@ -45,11 +45,11 @@ tags:
     <tr><th>Status</th><td>Alive</td></tr>
     <tr><th>Born</th><td>June 1, 520 AA</td></tr>
     <tr><th>Gender</th><td>Female</td></tr>
-    <tr><th>Written Name</th><td>ᜆᜇ᜔ᜑᜈ ᜊᜃᜓᜈᜏ ᜀᜇ᜔ᜎᜏᜈ᜔</td></tr>
+    <tr><th>Written Name</th><td>ᜆᜇ᜔ᜑᜈ ᜊᜃᜓᜈᜏ</td></tr>
   </table>
   <div class="infobox-section">Physical Description</div>
   <table>
-    <tr><th>Hair</th><td>Black, long, straight</td></tr>
+    <tr><th>Hair</th><td>Black, two braids</td></tr>
     <tr><th>Eyes</th><td>Onyx</td></tr>
     <tr><th>Height</th><td>5'3"</td></tr>
     <tr><th>Skin</th><td>Tan</td></tr>
@@ -58,21 +58,23 @@ tags:
   <div class="infobox-section">Affiliations</div>
   <table>
     <tr><th>Allegiance</th><td><a href="../world/">The Blessed, The Bakunawa</a></td></tr>
-    <tr><th>Residence</th><td><a href="../locations/">Lower Hanan, The Hanan Palace</a></td></tr>
+    <tr><th>Residence</th><td><a href="../locations/cities/ilawan">Ilawan</a></td></tr>
     <tr><th>Occupation</th><td>Shadowbringer</td></tr>
     <tr><th>Family</th><td>
       <ul>
-        <li><a href="../kawayan">Kawayan Bakunawa</a> (adoptive father)</li>
+        <li>Unnamed father †</li>
+        <li>Unnamed mother †</li>
+        <li><a href="../kawayan">Kawa Bakunawa</a> (adoptive father)</li>
         <li><a href="../amihan">Amihan Bakunawa</a> (adoptive cousin)</li>
-        <li><a href="../hiwaga">Hiwaga</a> (father, deceased)</li>
-        <li><a href="../mayari-2">Mayari Adlwan II</a> (mother, deceased)</li>
-        <li><a href="../tala">Tala Adlawan</a> (great-grandmother, deceased)</li>
-        <li><a href="../araw">Araw Adlawan</a> / <a href="../linawag">Linawag Adlawan</a> (great-grandfather, deceased)</li>
-        <li><a href="../ulupong">Ulupong Bakunawa</a> (adoptive uncle, deceased)</li>
-        <li><a href="../sinta">Sinta Bakunawa</a> (adoptive aunt, deceased)</li>
-        <li><a href="../bayani">Bayani Bakunawa</a> (adoptive cousin, deceased)</li>
-        <li><a href="../habagat">Habagat Bakunawa</a> (adoptive cousin, deceased)</li>
-        <li><a href="../mahalia">Mahalia Bakunawa</a> (adoptive cousin, deceased)</li>
+        <li><a href="../mahalia">Mahalia Bakunawa</a> (adoptive cousin)</li>
+        <!-- <li><a href="../hiwaga">Hiwaga</a> (father, deceased)</li>
+        <li><a href="../mayari-2">Mayari Adlwan II</a> (mother, deceased)</li> -->
+        <!-- <li><a href="../tala">Tala Adlawan</a> (great-grandmother, deceased)</li>
+        <li><a href="../araw">Araw Adlawan</a> / <a href="../linawag">Linawag Adlawan</a> (great-grandfather, deceased)</li> -->
+        <!-- <li><a href="../sinta">Sinta Bakunawa</a> (adoptive aunt, deceased)</li> -->
+        <li><a href="../bayani">Bayani Bakunawa</a> † (adoptive cousin)</li>
+        <li><a href="../habagat">Habagat Bakunawa</a> † (adoptive cousin)</li>
+        <li><a href="../ulupong">Ulupong Bakunawa</a> † (adoptive uncle)</li>
       </ul>
   </table>
 </div>
@@ -82,24 +84,25 @@ tags:
   <footer>— Palani, <a href="#">House of Light</a></footer>
 </div>
 
-**Tadhana Bakunawa** (*pronounced: todd-HAH-na*) is a Shadowbringer of [Hanan](../world/) and the protagonist of *House of Light*.
+**Tadhana Bakunawa** (*pronounced: todd-HAH-na*) is a Shadowbringer of [Hanan](../../locations/chiefdoms/hanan) and the protagonist of *House of Light*.
 
 ## Biography
 
 ### Early Life
-Tadhana was born in a village on the outskirts of the capital city of Hanan. After losing her parents to a village raid, she was found by the Bakunawas and taken to Lower Hanan, where she spent the rest of her childhood.
+Tadhana was born in a village in the south of [Hanan](../../locations/chiefdoms/hanan). She lived with her mother—who was the village storyteller and hard of hearing, her father—who she does not remember much of, and her grandmother—who fused the clasps of Tadhana's jewelry closed in order to keep their gold safe. After losing her parents to a village raid, she was found by the Bakunawas and taken to [Lower Ilawan](../../locations/cities/lowerIlawan), where she spent the rest of her childhood and the beginning of her adulthood.
 
-At age 14, Tadhana became an enforcer for the Bakunawa clan. Since the age of 17, Tadhana has been acting as their leader and the lieutenant of the clan.
+In Lower Ilawan, she was raised by [Kawa](../kawayan). She grew up alongside her adoptive cousins [Bayani](../bayani), [Amihan](../amihan), [Habagat](../habagat), and [Mahalia](../mahalia).  At age 14, Tadhana became an enforcer for the Bakunawa clan. In her youth, she had dreams of becoming a [Lightbringer](../lore/magic/lightbringing) which she eventually abandoned. Since the age of 17, Tadhana has been acting as the lieutenant of the clan and leader of her crew of cousins.
 
 ### Events of *House of Light*
 
 *(Write what happens to this character in each book here.)*
 
 ## Personality
-Tadhana is often described as charming, calm and calculated, cold, manipulative, sly, and cunning. Her strengths are that she is efficient, energetic, confident, strong-willed, strategic, charismatic, and persuasive. Her weaknesses are that she is stubborn, dominant, intolerant, impatient, arrogant, cold and ruthless. She likes jewelry, jewels, rare books, drinking, pretty people, fighting, and dressing up. She dislikes confined spaces. She makes lots of eye contact, smirks a lot, has a rigid posture, assertive and manner-of-fact tone. Tadhana's hobby is knowledge - she loves conducting experiments, reading and writing encyclopedias, etc.
+Tadhana is often described as charming, calm and calculated, cold, manipulative, sly, and cunning. Her strengths are that she is efficient, energetic, confident, strong-willed, strategic, charismatic, and persuasive. Her weaknesses are that she is stubborn and often arrogant. She likes jewelry, jewels, rare books, drinking, pretty people, fighting, and dressing up. She dislikes confined spaces. She makes lots of eye contact, smirks a lot, has a rigid posture, assertive and manner-of-fact tone. Tadhana's hobby is knowledge - she loves conducting experiments, reading and writing encyclopedias, etc.
 
 ## Abilities & Powers
-Tadhana was blessed by Yinying with Shadowbringing. She also possesses the ability of Nightmarewielding, and Lightwielding (not to be confused with Lightbringing).
+Despite the fact that the chiefdom's patron goddess is Hanan, Tadhana was blessed by Yinying with [Shadowbringing](../../lore/magic/shadowbringing). She is the first person from Hanan to have ever been blessed with Shadowbringing. 
+<!-- She also possesses the ability of Nightmarewielding, and Lightwielding (not to be confused with Lightbringing). -->
 
 ## Relationships
 
