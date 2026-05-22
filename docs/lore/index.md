@@ -18,15 +18,15 @@ The rules, history, and mythology underlying *House of Light*.
 
 | Name | Description | Known Users | 
 |------|-------------| ----------------|
-| <a href="../magic/lightbringing">Lightbringing</a> | Blessing of Hanan | <a href="../characters/jinhai.md">Jinhai Nangong</a>, <a href="../characters/legacy/tala.md">Tala Adlawan</a>, <a href="../characters/legacy/araw.md">Araw Adlawan</a>, <a href="../characters/legacy/linawag.md">Linawag Adlawan</a>, <a href="../characters/legacy/dakila.md">Dakila Adlawan</a>, <a href="../characters/legacy/bato.md">Bato Adlawan</a>|
-| <a href="../magic/seawielding">Seawielding</a> | Blessing of Lautan | <a href="../characters/setia.md">Setia</a> |
-| <a href="../magic/stormbringing">Stormbringing</a> | Blessing of Langit | <a href="../characters/liwei.md">Liwei Tengku</a>, <a href="../characters/minor/awang.md">Awang Tengku</a> |
-| <a href="../magic/Florawielding">Florawielding</a> | Blessing of Dokmai | <a href="../characters/palani.md">Palani</a>, <a href="../characters/ahn.md">Ahn Maniyong</a> |
-| <a href="../magic/stonewielding">Stonewielding</a> | Blessing of Sonthuy | <a href="../characters/som.md">Som</a> |
-| <a href="../magic/windbringing">Windbringing</a> | Blessing of Wayu | <a href="../characters/phichai.md">Phichai</a> |
-| <a href="../magic/flamewielding">Flamewielding</a> | Blessing of Fleun ||
-| <a href="../magic/shadowbringing">Shadowbringing</a> | Blessing of Yinying |<a href="../characters/tadhana.md">Tadhana Bakunawa</a>|
-| <a href="../magic/witchcraft">Witchcraft</a> | General word for dark magic practiced by Tatloan cults | <a href="../characters/palani.md">Palani</a> |
+| [Lightbringing](./magic/lightbringing) | Blessing of Hanan | |
+| [Seawielding](./magic/seawielding) | Blessing of Lautan | <a href="../characters/setia.md">Setia</a> |
+| [Stormbringing](./magic/stormbringing) | Blessing of Langit | [Liwei](../characters/liwei) |
+| [Florawielding](./magic/florawielding) | Blessing of Dokmai | [Palani](../characters/palani), [Ahn Maniyong](../characters/ahn)|
+| [Stonewielding](./magic/stonewielding) | Blessing of Sonthuy | [Som](../characters/som) |
+| [Windbringing](./magic/windbringing) | Blessing of Wayu | [Phichai](../characters/phichai), [Anurak](../characters/minor/anurak) |
+| [Flamewielding](./magic/shadowbringing) | Blessing of Fleun ||
+| [Shadowbringing](./magic/shadowbringing) | Blessing of Yinying | [Tadhana Bakunawa](../characters/tadhana)|
+| [Witchcraft](./magic/witchcraft) | General word for dark magic practiced by Tatloan cults | [Palani](../characters/palani) |
 
 ## Mythology & Cosmology
 
